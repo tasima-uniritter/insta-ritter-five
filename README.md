@@ -1,7 +1,6 @@
-Arquitetura Web - Trabalho Final - Insta Ritter
+ARQUITETURA WEB - TRABALHO FINAL - INSTA-RITTER-FIVE
 
-TIME:
-André, Anderson e Gustavo
+TIME: André, Anderson e Gustavo
 
 TECNOLOGIAS:
 - PHP
@@ -10,6 +9,6 @@ TECNOLOGIAS:
 - MySQL
 
 VERSÕES:
-0.1: API em PHP, banco MySQL, DropBox para salvar as imagens, em cima de containers
-0.2: Incrementar instâncias para alta-disponibilidade
-0.3: Incrementar filas
+- 0.1: API em PHP, banco MySQL, DropBox para armazenar as imagens, trabalhando com Containers
+- 0.2: Incrementar instâncias para alta-disponibilidade
+- 0.3: Incrementar filas
