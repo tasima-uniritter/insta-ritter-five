@@ -1,0 +1,39 @@
+## miniRelay Server Mail File (Type 1.01) ##
+1
+leo
+Error
+X-Mailer: miniRelay v0.9.77d
+From: leo
+Subject: Mail System Error - Returned Mail
+To: leo
+Content-Type: multipart/mixed; boundary="=_NextPart_2rfkindysadvnqw3nerasdf"
+MIME-Version: 1.0
+Date: Wed, 9 Jul 2008 13:25:28 -0300
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+This Message was undeliverable due to the following reason:
+
+unacceptable mail address
+
+
+------------------------miniRelay v0.9.77d
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: application/octet-stream;
+        name="message.msg"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+        filename="message.msg"
+
+RGF0ZTogTW9uLCAwNyBKdWwgMjAwOCAwNjo0ODo0NiAtMDMwMA0KU3ViamVjdDogc2RmZHNnYQ0K
+VG86IGxpdnJhcmlhQGZ1cnJlci5jb20NCkZyb206IGRmZHNnc2ZkIDxsZW8+DQoNCk5vbWU6IGxl
+bw0KQ2lkYWRlOiBwb3J0byBhbGVncmUNCkVzdGFkbzogQVANCkUtbWFpbDogZGZkc2dzZmQNCkFz
+c3VudG86IHNkZmRzZ2ENCg==
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--
+.

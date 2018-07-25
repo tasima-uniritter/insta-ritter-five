@@ -1,0 +1,6 @@
+{   "require": {
+  "ext-mysql": "*",
+  "ext-gettext": "*",
+  "robmorgan/phinx": "^0.6.2"
+  }
+}

@@ -1,0 +1,36 @@
+## miniRelay Server Mail File (Type 1.01) ##
+1
+
+Error
+X-Mailer: miniRelay v0.9.77d
+Subject: Mail System Error - Returned Mail
+Content-Type: multipart/mixed; boundary="=_NextPart_2rfkindysadvnqw3nerasdf"
+MIME-Version: 1.0
+Date: Mon, 7 Jul 2008 06:43:20 -0300
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+This Message was undeliverable due to the following reason:
+
+unknown user <livraria@furrer.com>
+
+
+------------------------miniRelay v0.9.77d
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: application/octet-stream;
+        name="message.msg"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+        filename="message.msg"
+
+RGF0ZTogTW9uLCAwNyBKdWwgMjAwOCAwNjo0MzoxMSAtMDMwMA0KU3ViamVjdDogDQpUbzogbGl2
+cmFyaWFAZnVycmVyLmNvbQ0KRnJvbTogIDw+DQoNCk5vbWU6IA0KQ2lkYWRlOiANCkVzdGFkbzog
+RXNjb2xoYSBzZXUgRXN0YWRvDQpFLW1haWw6IA0KQXNzdW50bzogDQo=
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--
+.
