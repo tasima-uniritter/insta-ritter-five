@@ -5,7 +5,7 @@ TIME: André, Anderson e Gustavo
 TECNOLOGIAS:
 - PHP
 - Docker
-- Postman
+- Nginx
 - MySQL
 
 VERSÕES:
