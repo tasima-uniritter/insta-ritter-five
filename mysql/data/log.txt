@@ -1,2 +1,0 @@
-180724 15:01:59 [Note] C:/Users/andre/Dropbox/app_insta/insta/Mysql/bin/mysqld-nt_usb.exe: ready for connections.
-Version: '5.0.24a-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)

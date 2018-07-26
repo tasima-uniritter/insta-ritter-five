@@ -1,2 +1,0 @@
-httpd_usb.exe
-pause
