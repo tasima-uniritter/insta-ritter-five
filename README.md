@@ -1,7 +1,7 @@
 <H3>INSTA-RITTER</H3>
 Projeto com o objetivo de criar um app parecido com o instagram
 
-TIME: André, Anderson e Gustavo
+<br><H3>TIME: André, Anderson e Gustavo</br></H3>
 
 ARQUITETURA WEB - TRABALHO FINAL -
 
