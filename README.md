@@ -15,7 +15,7 @@ Uma conta no Docker inicialmente as imagens vão ser salvas no docker
 <li>Nginx</li>
 <li>MySQL</li>
 
-VERSÕES:
-- 0.1: API em PHP, banco MySQL, DropBox para armazenar as imagens, trabalhando com Containers
-- 0.2: Incrementar instâncias para alta-disponibilidade
-- 0.3: Incrementar filas
+<br><H3>VERSÕES:<br></H3>
+<li>0.1: API em PHP, banco MySQL, DropBox para armazenar as imagens, trabalhando com Containers - versão atual</li>
+<li>0.2: Incrementar instâncias para alta-disponibilidade - próxima versão</li>
+<li>0.3: Incrementar filas - próxima versão</li>
