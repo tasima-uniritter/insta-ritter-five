@@ -1,4 +1,5 @@
-<H3>INSTA-RITTER-FIVE</H3>
+<H3>INSTA-RITTER</H3>
+Projeto com o objetivo de criar um app parecido com o instagram
 
 TIME: André, Anderson e Gustavo
 
