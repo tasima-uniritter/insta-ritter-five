@@ -8,6 +8,12 @@ André, Anderson e Gustavo
 
 <br><H3>Dependencias</br></H3>
 Uma conta no Docker inicialmente as imagens vão ser salvas no docker
+Necessidade de ter uma conta cadastrada para utilizar o app
+
+<br><H3>Rodar e Testar a Aplicação</br></H3>
+Primeiramente deve rodar o aplicativo Usb Webserver
+Depois entrar na seguinte uri: http://localhost:7777/insta/
+Depois colocar imagens, por ser um app de fotos, ele não aceita documentos como .doc, .pdf entre outros.
 
 <br><H3>Tecnologias Utilizadas:</br></H3>
 <li>PHP</li>
