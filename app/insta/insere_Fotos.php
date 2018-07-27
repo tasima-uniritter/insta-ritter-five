@@ -29,14 +29,15 @@ $EndFot = $dataHora.'.jpg';
 
 	require_once("classFotos.php");
 	$con=new Fotos(); //Instancia a class
-	$rs = $con->insercao($ID,$des,$EndFot);
+	/*$rs = $con->insercao($ID,$des,$EndFot);*/
+	$rs = $con->insercao($des,$EndFot);
 
 	 $menu = include 'envia_arq.php';
      echo $arquivo;
 	
 echo "<script> 
 		alert('Foto inserida com sucesso!');
-		window.location.href='old_index.php';
+		window.location.href='index.php';
 	  </script>";
  
 ?>

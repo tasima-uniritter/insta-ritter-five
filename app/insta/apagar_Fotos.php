@@ -32,7 +32,7 @@
 		$rs = $con->apaga($id2);			
 	
 	echo "<script> 
-		alert('Foto exclu�da!');
+		alert('Foto excluída!');
 		window.location.href='lista_Fotos.php';
 		</script>";
 	}

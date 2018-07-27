@@ -40,14 +40,23 @@ Class Fotos{
 		$mySQL->disconnect;
     }
 	
-	function insercao($id,$des,$url){
+	/*function insercao($id,$des,$url){
         $mySQL = new MySQL;
 		$sql = "insert into Image (ID,Description,URL) values ('$id','$des','$url')";
 		echo $sql;
 		$rs = $mySQL->executeQuery($sql);
 		return $rs;
 		$mySQL->disconnect;
-    }	
+    }*/
+
+    function insercao($des,$url){
+        $mySQL = new MySQL;
+        $sql = "insert into Image (Description,URL) values ('$des','$url')";
+        echo $sql;
+        $rs = $mySQL->executeQuery($sql);
+        return $rs;
+        $mySQL->disconnect;
+    }
 
     function apaga($id){
         $mySQL = new MySQL;
