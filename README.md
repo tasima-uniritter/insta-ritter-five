@@ -1,10 +1,12 @@
+<H2>ARQUITETURA WEB - TRABALHO FINAL</H2>
+
 <H3>INSTA-RITTER</H3>
 Projeto com o objetivo de criar um app parecido com o instagram
 
 <br><H3>TIME:</br></H3>
 André, Anderson e Gustavo
 
-ARQUITETURA WEB - TRABALHO FINAL -
+
 
 TECNOLOGIAS:
 - PHP
