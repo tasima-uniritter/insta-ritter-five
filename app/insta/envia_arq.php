@@ -2,7 +2,7 @@
 <?
 ini_set('default_charset','UTF-8');
 /* Insira aqui a pasta que deseja salvar o arquivo*/
-$uploaddir = 'img_imo/';
+$uploaddir = './app/insta/img_imo';
 
 
 //$EndFot = $_FILES['userfile']['name'];
@@ -17,7 +17,7 @@ $EndFot = $dataHora.'.jpg';
 
 
   if (move_uploaded_file($_FILES['userfile']['tmp_name'], $uploaddir . $EndFot)) {
-	print 'O arquivo é valido e foi carregado com sucesso!';
+	print 'O arquivo Ã© valido e foi carregado com sucesso!';
   }
   else {
     print 'Erro de upload!';

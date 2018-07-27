@@ -28,9 +28,10 @@ services:
 
   # Data persistence service layer
   mysql:
-    image: mysql:latest
+    image: mysql:5.7.22
     volumes:
       - "db_data:/var/lib/mysql"
+      - "./mysql/initial_data:/docker-entrypoint-initdb.d"
     ports:
       - "3307:3307"
     environment:

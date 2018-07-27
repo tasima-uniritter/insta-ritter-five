@@ -16,25 +16,25 @@ class MySQL
 	//Apenas instancia o Objeto
 	}
 
-	//Esta fun��o faz a conex�o com o Banco de Dados
+	//Esta função faz a conexão com o Banco de Dados
 	function connect()
 	{
 		$this->link=mysqli_connect($this->host,$this->user,$this->password,$this->database);
 		if(!$this->link)
 		{
-			echo "Falha na conex�o com o Banco de Dados!<br />";
+			echo "Falha na conexão com o Banco de Dados!<br />";
 			echo "Erro: " . mysqli_error($this->link);
 			die();
 		}
 			elseif(!mysqli_select_db($this->link, $this->database))
 		{
-			echo "O Banco de Dados solicitado n�o pode ser aberto!<br />";
+			echo "O Banco de Dados solicitado não pode ser aberto!<br />";
 			echo "Erro: " . mysqli_error($this->link);
 			die();
 		}
 	}
 
-	//Esta fun��o executa uma Query
+	//Esta função executa uma Query
 	function executeQuery($query)
 	{
 		$this->connect();
@@ -46,7 +46,7 @@ class MySQL
 		}
 		else
 		{
-			echo "Ocorreu um erro na execu��o da SQL";
+			echo "Ocorreu um erro na execução da SQL";
 			echo "Erro :" . mysqli_error($this->link);
 			echo "SQL: " . $query;
 			die();
@@ -67,7 +67,7 @@ class MySQL
 		//return $this->result[0];
 	}
 	
-	//Esta fun��o desconecta do Banco
+	//Esta função desconecta do Banco
 	function disconnect()
 	{
 		return mysqli_close($this->link);

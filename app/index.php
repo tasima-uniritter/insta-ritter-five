@@ -47,8 +47,8 @@ ini_set('default_charset','UTF-8');
 				</div>
 				<center>	
 				  <table border=0 align=center width=300>
-					<tr><td></td><td>			
-						Descrição: <input type="text" name="des" value=""> 
+					<tr><td></td><td>
+                            Descrição: <input type="text" name="des" value="">
 					</td></tr>
 					<tr>
 						<td> </td><td><input name='userfile' type='file'></td>

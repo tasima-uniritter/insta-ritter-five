@@ -66,7 +66,7 @@ echo $htm;
 	
 
 		echo "<br><table align=center>
-			<tr><td><a href='old_index.php'>Voltar</a></td></tr>
+			<tr><td><a href='index.php'>Voltar</a></td></tr>
 		</table>";
 ?>
 
