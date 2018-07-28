@@ -4,7 +4,7 @@
 Projeto com o objetivo de criar um app parecido (#sqn) com o instagram
 
 <br><H3>TIME:</br></H3>
-André, Anderson e Gustavo
+Anderson, André e Gustavo
 
 <br><H3>Dependencias</br></H3>
 Uma conta no Docker inicialmente as imagens vão ser salvas no docker
