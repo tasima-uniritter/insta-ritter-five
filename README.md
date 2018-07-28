@@ -26,6 +26,7 @@ Voce entrou na tela insta ritter.
 <li>MySQL</li>
 
 <br><H3>VERSÕES:<br></H3>
-<li>0.1: Foi criada uma API em PHP utilizando um banco MySQL onde as imagens vão ser armazenadas no DropBox e essa api esta trabalhando com Containerização - versão atual</li>
-<li>0.2: Incrementar instâncias para alta-disponibilidade - próxima versão</li>
-<li>0.3: Incrementar filas - próxima versão</li>
+<li>0.1: Foi criada uma aplicação em PHP utilizando um banco MySQL onde as imagens vão ser armazenadas localmente na estrutura de pastas e trabalhando com containers - versão atual</li>
+<li>0.2: Incrementar filas e refatorar o código para uma Arquitetura Onion</li>
+<li>0.3: Incrementar instâncias para alta-disponibilidade</li>
+
